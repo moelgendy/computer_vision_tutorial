@@ -102,9 +102,15 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 
 ## Project Submission
+Complete the TODO functions in the notebook. If you got stuck, feel free to consult the solution in `dog-breed-solution.ipynb`.
 
 When you are ready to submit your project, collect the following files and compress them into a single archive for upload to the Canvas:
 - The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
 - An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+## Extra ideas to improve results (optional)
+- Try different transfer learning architecture: VGG16, VGG19, Resnet50, etc.
+- Add more Convolutional layers
+- Add more FC Layers
